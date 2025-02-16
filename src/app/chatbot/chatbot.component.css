@@ -1,0 +1,22 @@
+.chatbot-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .chat-window {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .user {
+    text-align: right;
+    color: blue;
+  }
+  .bot {
+    text-align: left;
+    color: green;
+  }

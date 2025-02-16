@@ -1,0 +1,4 @@
+Hello How can I help you
+The weather is nice today
+Angular is a great framework
+This is a simple chatbot
